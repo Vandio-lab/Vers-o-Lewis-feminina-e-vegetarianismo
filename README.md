@@ -1,15 +1,12 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
+                                        Natural ou Fake Natty? Como Vencer na Era das IAs Generativa
 ## 🚀 Introdução
-
 > Woooow! Look at this 👀
 
 Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
+E
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
 ### Objetivos
-
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 1. **Potfólio de Projetos**:
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
@@ -20,22 +17,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Versão Feminina Lewis Hamilton e o vegetarianismo ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilização de IAs Generativas para criação de um avatar na versão feminina de Lewis Hamilton falando sobre vegetarianismo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot, Elevenlabs e Studio D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompt no Copilot : "Criar um texto para uma apresentação de trinta segundos sobre vegetarianismo.
+Elevenlabs: Conversão Text to Speech e escolha da voz " Alice"
+Studio D-ID: Avatar-AI Generation- Prompt : " Create a front avatar of a female version of Lewis Hamilton"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Vídeo de trinta segundos mostrando um avatar versão feminina de Lewis Hamilton falando sobre vegetarianismo.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Essa atividade proporcionou novos e interessantes aprendizados sobre o uso das IAs além de incentivar a criatividade.
 ```
 
 ### Exemplos e Insigths
